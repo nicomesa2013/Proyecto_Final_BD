@@ -1,0 +1,7 @@
+
+package Modelo;
+
+
+class Infraccion {
+    
+}
